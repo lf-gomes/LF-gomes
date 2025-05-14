@@ -1,30 +1,33 @@
-<div style="font-family:monospace; background:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px">
+<!-- Apresentação em estilo cartão -->
+<div align="center">
 
-<p><strong><span style="color:#8b949e;">user@github:</span>~$</strong> whoami</p>
-<p><strong><span style="color:#58a6ff;">Luis Fernando S. Gomes</span></strong> — mente curiosa, apaixonado por resolver problemas com código. 🧩</p>
+<h1>👋 Olá, eu sou <span style="color:#007acc">Luis Fernando S. Gomes</span></h1>
 
-<br/>
+<p>
+💻 Desenvolvedor apaixonado por tecnologia e soluções criativas.<br/>
+🎯 Foco em crescimento contínuo, organização e colaboração.
+</p>
 
-<p><strong><span style="color:#8b949e;">user@github:</span>~$</strong> cat stack.txt</p>
-<ul>
-  <li><strong>Java</strong> — onde estou aprendendo a estruturar ideias com lógica forte ☕</li>
-  <li><strong>Python</strong> — minha escolha para automações e brincadeiras criativas 🐍</li>
-  <li><strong>SQL</strong> — porque dados precisam de ordem e significado 🧮</li>
-</ul>
+<!-- Ícones de tecnologias -->
+<h3>🚀 Tecnologias que uso:</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-<br/>
+<!-- GitHub stats -->
+<h3>📈 GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lfgomes&show_icons=true&theme=github_dark&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfgomes&layout=compact&theme=github_dark&hide_border=true" width="45%"/>
+</p>
 
-<p><strong><span style="color:#8b949e;">user@github:</span>~$</strong> ls projetos/</p>
-<ul>
-  <li>↳ <a href="https://github.com/lfgomes">repositórios públicos</a></li>
-  <li>↳ ideias-criativas.md</li>
-  <li>↳ aprendizados-diarios.log</li>
-</ul>
-
-<br/>
-
-<p><strong><span style="color:#8b949e;">user@github:</span>~$</strong> echo "A organização é meu superpoder. A curiosidade, meu combustível." >> motivacao.txt</p>
-
-<p><span style="color:#3fb950;">✔️ motivacao.txt atualizado com sucesso.</span></p>
+<!-- Rodapé -->
+<p>
+🧠 "Organização e curiosidade são minhas ferramentas favoritas."<br/>
+🔗 <a href="https://github.com/lfgomes">Veja meus projetos</a>
+</p>
 
 </div>
