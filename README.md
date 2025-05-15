@@ -15,11 +15,15 @@
 ```
 
 ⚙️ **Ferramentas**
-Java
-SQL
-Python
+```bash
+> Java
+> SQL
+> Python
+```
 
 **Aqui no GitHub**
+```bash
 > Este perfil é um espaço para compartilhar meu progresso, projetos e aprendizados ao longo da minha jornada como desenvolvedor.
 
 > Sinta-se à vontade para acompanhar meu desenvolvimento por aqui!
+```
