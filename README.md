@@ -1,10 +1,9 @@
 <div align="center">
 
-  # Bem vindo ao meu Diário Dev!!!
+  # 👨‍💻 Bem vindo ao meu Diário Dev!!!
  
 </div>
 
-##
 
  # Sobre mim
 
