@@ -27,7 +27,7 @@ A estrutura segue um modelo de diário com:
 
 Você pode visualizar o conteúdo completo em:
 
-> **[UC03 - Modelagem e Manipulação de Dados › Diário.md](./UC03%20-%20Auxiliar%20na%20Modelagem%20e%20Manipula%C3%A7%C3%A3o%20de%20Dados/Di%C3%A1rio.md)**
+> **[Diario_Dev › README.md](https://github.com/lf-gomes/Diario_Dev/blob/main/README.md)**
 
 ---
 
